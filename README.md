@@ -1,7 +1,5 @@
 # Leveraging-Animation-Essential-Insights-for-Playground-Design-Sales-Tools
 
-# Leveraging Animation: Essential Insights for Playground Design Sales Tools
-
 ## Overview
 
 This repository explores the role of animation in playground design and its significance as a vital sales tool. It provides insights into how animations can enhance presentations, attract clients, and streamline the design process.
