@@ -1,5 +1,7 @@
 # Leveraging-Animation-Essential-Insights-for-Playground-Design-Sales-Tools
 
+![Animation Insights](https://i.imgur.com/zmtvK4x.jpg)
+
 ## Overview
 
 This repository explores the role of animation in playground design and its significance as a vital sales tool. It provides insights into how animations can enhance presentations, attract clients, and streamline the design process.
@@ -28,4 +30,3 @@ If you would like to contribute to this repository, please fork it and submit a 
 ## Contact
 
 For more information, please visit [Sketchplay Playground Architects](https://www.sketchplay.co.uk) or contact us at info@sketchplay.co.uk.
-
